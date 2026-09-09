@@ -9,6 +9,7 @@ frontend/dist/
 frontend/.npm-cache/
 
 *.db
-.env
 *.log
 openapi.json
+config.bat
+node_modules
